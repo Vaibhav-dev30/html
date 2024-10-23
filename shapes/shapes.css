@@ -1,0 +1,26 @@
+*{
+    margin: 0%;
+    padding: 0%;
+
+}
+html,body{
+    height: 100%;
+    width: 100%;
+    display: flex;
+
+}
+div{
+    height: 200px;
+    width: 200px;
+}
+#box1{
+
+    background-color: aqua;
+}
+#box2{
+
+    background-color: rgb(92, 91, 130);
+}#box3{
+
+    background-color: rgba(61, 215, 153, 0.76);
+}
